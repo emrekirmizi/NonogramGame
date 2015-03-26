@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1427327338 source:c:\users\emre\desktop\projects\nonogramgame\main.c
+	<stdio.h>
+	<stdlib.h>
+
